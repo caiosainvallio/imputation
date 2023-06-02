@@ -1,0 +1,8 @@
+
+
+https://bookdown.org/mwheymans/bookmi/missing-data-evaluation.html#missing-data-definition-in-r
+
+https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
+  
+https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/mi.html
+
